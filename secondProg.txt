@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-second
-third attemp
-4th attemp
-5th attemp
-=======
->>>>>>> parent of e13b97b (thirdattemp)
