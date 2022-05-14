@@ -7,3 +7,4 @@ print("hello world")
 message = "Hello teamate"
 
 #print this message variable
+print(message) # done
